@@ -1,2 +1,2 @@
-# some-test-repo
+.# some-test-repo
 A test repo
